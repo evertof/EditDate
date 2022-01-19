@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Component Edit Date</string>
+    <string name="here_is_de_future">Here is de future!</string>
+    <string name="brazilian_date">Brazilian Date</string>
+    <string name="iso_date">Iso Date</string>
+    <string name="validate">Validate</string>
+</resources>
